@@ -1,8 +1,11 @@
 Industrial Talk 2 : Project Management and System Development
 
 Date : 18th December 2025
+
 Time : 2:00 p.m.
+
 Venue : Webex Meeting ( online )
+
 Speaker : Ts. Hj. Abdul Alim bin Abdul Muttalib, Head of Technology and Innovation of Serunai Commerce Sdn Bhd
 
 Ts. Hj. Abdul Alim expose how project management and system development are applied in the workplace and why they are very important to the IT industry and future careers. 
