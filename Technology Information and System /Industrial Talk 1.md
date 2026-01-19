@@ -11,4 +11,5 @@ From the talk, I gained a lot of knowledge such as :
 - Global Infrastructure CoE : plan, Build, Run is a conceptual framework that delineates departments within the global IT organizational structure into standard functional teams. 
 
 Reflection : By listening to this talk, I learned how important ICT is in helping industries run smoothly and adapt to digital changes. It showed me that ICT professionals play a meaningful role by solving problems, improving efficiency, and protecting systems.
+
 [INDUSTRY TALK PPG.pdf](https://github.com/user-attachments/files/24700570/INDUSTRY.TALK.PPG.pdf)
