@@ -19,3 +19,5 @@ D-Ron : I learned how advanced technologies are applied in security systems espe
 The explanation at some booths could be improved by providing more detailed and structured information and more hands-on demonstrations would help enhance understanding of the technologies presented.
 
 Reflection : This industrial visit was a valuable experience that enhanced my understanding of project management, system development as well as real world technology applications. It makes me realize the importance of proper planning, effective communication and strong teamwork in order to ensure the project success. The visit also increased my awareness of current industry practices and motivated me to further improve my soft skills and technical skills.
+
+https://youtu.be/h_7ojldYc10
